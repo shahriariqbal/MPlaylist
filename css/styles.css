@@ -51,7 +51,7 @@ li {
   text-align: center;
 }
 #main-nav a:hover {
-  background: #333;
+  background: #076687;
 }
 
 section h1 {
@@ -133,7 +133,7 @@ section h1 {
   font-weight: bold;
 }
 #services a:hover {
-  color: red;
+  color: blue;
 }
 #services ul:after {
   content: "";
